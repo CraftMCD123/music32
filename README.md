@@ -1,1 +1,1 @@
-# music32
+# music-bot
